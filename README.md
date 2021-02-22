@@ -13,7 +13,7 @@ I possess excellent communication skills and can liaise effectively with both cl
 
 Topic | URL
 -----| -----
-introduction message for programming | https://omarja21.github.io/Introduction/
+introduction message for programming | https://github.com/Omarja21/Reading-notes/blob/main/Introduction%20to%20programming.md
 Mastering the Markdown | https://github.com/Omarja21/Reading-notes/blob/main/markdown.md
 How your Mindset should be | https://github.com/Omarja21/Reading-notes/blob/main/MIndset.md
 what is git? how it works? | https://github.com/Omarja21/Reading-notes/blob/main/Git.md
