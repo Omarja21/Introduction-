@@ -16,6 +16,6 @@ Topic | URL
 introduction message for programming | https://omarja21.github.io/Introduction/
 Mastering the Markdown | https://omarja21.github.io/Markdown/
 How your Mindset should be | https://github.com/Omarja21/Reading-notes/blob/main/MIndset.md
-what is git? how it works? | https://omarja21.github.io/Git-/. 
+what is git? how it works? | https://github.com/Omarja21/Reading-notes/blob/main/Git.md
 
  
