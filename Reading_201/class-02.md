@@ -1,6 +1,6 @@
 ### In this paragraph we are talking about the the structural markup of the web pages starting from the <h1></h1> tag which is 
 used to identify the heading of the website, also the website can view the different headings is different sizes using the 
-<h1>,<h2>,<h3>...<h6> tags based on the importance <h1> most important <h6> least important.
+/<h1>,<h2>,<h3>...<h6>/ tags based on the importance <h1> most important <h6> least important.
 
 ### After writing the heading you need to start writing your paragraph for the website, so you need to use the 
 <p> "paragraph content" <p/> tag to identify that this text is a paragraph for the browser, and if you want to emphasis 
