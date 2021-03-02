@@ -1,4 +1,4 @@
-linking to other sites:
+ linking to other sites:
 <a href='https://www.google.com'>Google</a>
 
 so this is the basic structure for linking tag and it is called anchor tag, and by using it you can refer for other 
