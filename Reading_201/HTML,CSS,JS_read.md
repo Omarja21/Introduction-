@@ -18,7 +18,7 @@ same page by using the id for example:
 <a href="#test">paragraph 1</a>
 <p id="test">content of the paragraph</p>
 so when you click on the paragraph 1 it will take you to the paragraph with the same id of "test" in the same page.
-***************************************
+
 positioning in CSS
  there is several positioning ways in CSS: 
 1-the first one is the default one which is static positioning where each block-level element sits on the top of the next one 
@@ -45,7 +45,7 @@ element as possible.
 Anything else that sits inside the containing element will flow around the element that is floated.
 position: float;
 width: 200px;
-*******************
+
 the truthy and falsy values:
 -fasly?
 falsy values for the variables:
@@ -61,7 +61,7 @@ true
 10/5
 "0"
 "false"
-**********
+
 if (condition){
 	statment;
 } else if(condition){
@@ -71,7 +71,7 @@ statment;
 this is used to control the flow
 x==y checks for the value
 x===y checks for data type and value
-*******
+
 switch statment:
 switch:
 switch value:
@@ -91,7 +91,7 @@ case 'yahia':
 default:
 	log('not authenticated');
 }
-*************
+
 loops:
 	1-for(initializer;condition;update){
 satatment
@@ -117,7 +117,7 @@ alert('hello '+ userName);
 	do{
 	  statment;
 }	while(condition);
-******
+
 Arrays: it is another data type to preserve more that one values in one place
 print 5 different types of fruits in consol log
 The syntax of array:
