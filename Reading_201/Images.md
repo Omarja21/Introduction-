@@ -1,0 +1,10 @@
+# images 
+### In this summary we will learn about how to deal with images in CSS such as controlling the size of an image, aligning images in CSS and adding back groung images 
+### Stating by sizing the image you need to under stand that it is better to define the size of an image in the CSS because the browser will load the image smoothely because the browser will run the code and leave the space that you have defined for the photo to load later, and you can use the height and width properties 
+### for aligning the image right, left or center you can use different techniques, as for the left or right aligning you can use the float property but for to center the photo you can set the align property into bloch (as the default for the images is to be inline to allow the text to flow around them)
+### you can also many properties to set the photos in css:
+* background-image: The background-image property allows you to place an image behind any HTML element.
+* background-repeat: repeat, repeat-x, repeat-y
+* background-position: left top, left center, left bottom, center top, center center, center bottom, right top, right center, right bottom
+### In css also you can use different styles for link or button for example this can be usful when we want adjust a button to be in style when no one is doing anything with it and another one when the user hover over it and a third one when the user click it, This is achieved by setting a background image for the link or button that has three different styles of the same button (but only allows enough space to show one of them at a time). You can see the image we are using in this example on the right. It actually features two buttons on the one image. 
+#### and always remember to reduce the number of images your browser has to load, you can create image sprites.
